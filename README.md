@@ -1,6 +1,6 @@
 # BITWebHelper-NF
 
-#### 项目已经废弃，请参见基于.net 6跨平台构建的![BITWebHelper](https://gitee.com/ckblau/bitwebhelper)
+#### 项目已经废弃，请参见基于.net 6跨平台构建的[BITWebHelper](https://gitee.com/ckblau/bitwebhelper)
 
 #### 介绍
 
