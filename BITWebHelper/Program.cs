@@ -238,7 +238,9 @@ namespace BITWebHelper {
 
         static int Main (string[] args) {
 
-            if (args.Length < 3) {
+            if (args.Length != 4) {
+                Console.WriteLine("Bad arguments!");
+                Console.WriteLine("BITWebHelper <access_id> <ispname> <username> <password>");
                 return 0;
             }
             string ac_id = args[0],
